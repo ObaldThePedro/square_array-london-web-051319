@@ -1,4 +1,4 @@
-describe_relative "./"
+describe_relative "./spec_helper.rb"
 
 describe '#square_array' do
 
