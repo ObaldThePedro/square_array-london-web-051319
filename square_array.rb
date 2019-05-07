@@ -2,5 +2,5 @@ def square_array(array)
   # your code here
   array.each() do |item|
     value = item * item
-  
+    puts 
 end
